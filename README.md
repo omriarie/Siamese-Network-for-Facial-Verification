@@ -1,5 +1,5 @@
 # Siamese Network for Facial Verification
-
+![Siamese logo](siamese pic.png "Siamese logo")
 This project demonstrates the use of a Siamese neural network to perform facial verification. By leveraging **PyTorch** and other key libraries, I implemented, trained, and fine-tuned models to compare two images and predict if they belong to the same individual. Each experiment builds upon the last, showcasing progressive improvements in performance.
 
 ---
